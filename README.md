@@ -56,7 +56,4 @@ If you find this work valuable or use our code in your own research, please cons
   pages={}}
 ```
 
-## Contact Information
-
-Guoqing Wang: bit_wgq@163.com
 
