@@ -1,7 +1,7 @@
 
 ## CDKD
 
-The pytorch implementation for "Knowledge Distillation-Based Lightweight Change Detection in High-Resolution Remote Sensing Imagery for On-Board Processing". The paper is submitted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 
+The pytorch codes for "Knowledge Distillation-Based Lightweight Change Detection in High-Resolution Remote Sensing Imagery for On-Board Processing".
 
 
 ## Requirements
