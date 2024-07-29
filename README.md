@@ -1,5 +1,5 @@
 
-## CDKD
+## CDKD--Knowledge Distillation-Based Lightweight Change Detection in High-Resolution Remote Sensing Imagery for On-Board Processing
 
 The pytorch codes for IEEE JSTARS paper "Knowledge Distillation-Based Lightweight Change Detection in High-Resolution Remote Sensing Imagery for On-Board Processing".
 
